@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Fulkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">My experience in building web applications with React and backend-end technologies has allowed me to create clean and responsive designs that enhance the user experience. I have also integrated software for workflow and automation, streamlining processes across departments and improving efficiency.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikfulkar&label=Profile%20views&color=0e75b6&style=flat" alt="pratikfulkar" /> </p>
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/pratik-fulkar-00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pratik-fulkar-00" height="30" width="40" /></a>
 <a href="https://instagram.com/pratik_fulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik_fulkar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchu9tu3gx_pzo7pj4tv2lkq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchu9tu3gx_pzo7pj4tv2lkq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
