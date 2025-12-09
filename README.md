@@ -1,16 +1,20 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratik%20Fulkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Pratik%20Fulkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" />
+
+<br/><br/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Solutions+%F0%9F%92%A1;AI+%7C+Cloud+%7C+Full+Stack+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
 <!-- Animated badges -->
 <img src="https://komarev.com/ghpvc/?username=pratikfulkar&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/pratikfulkar?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1b27" alt="followers" />
+
+<br/><br/>
 
 </div>
 
@@ -117,11 +121,84 @@ Specializations:
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratikfulkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratikfulkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikfulkar&theme=tokyonight&hide_border=true&background=1a1b27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikfulkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratikfulkar&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=ffffff" />
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikfulkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=pratikfulkar&limit=5&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=c9d1d9" />
+
+</div>
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🏆 Honors & Awards</h2></summary>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🏅_ARJUNA_AWARD-FFD700?style=for-the-badge&labelColor=1a1b27" />
+<br/>
+<b>Best Individual Performer</b>
+<br/>
+<sub>Flashaid (formerly EasyAspataal)</sub>
+<br/>
+<sub>📅 Nov 2023</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Q4_2023-00D9FF?style=flat-square" />
+<br/>
+<sub><i>Recognized for outstanding dedication, hard work, and collaborative excellence in delivering exceptional results</i></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/💡_INNOVATION_AWARD-00D9FF?style=for-the-badge&labelColor=1a1b27" />
+<br/>
+<b>Innovation Excellence</b>
+<br/>
+<sub>EasyAspataal</sub>
+<br/>
+<sub>📅 Feb 2023</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Q1_2023-FFD700?style=flat-square" />
+<br/>
+<sub><i>Honored for driving innovation and introducing creative solutions that transformed project outcomes</i></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🌟_BEST_PROJECT-4ECDC4?style=for-the-badge&labelColor=1a1b27" />
+<br/>
+<b>Top Internship Project</b>
+<br/>
+<sub>ExpertsHub</sub>
+<br/>
+<sub>📅 Nov 2019</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Internship-FF6B6B?style=flat-square" />
+<br/>
+<sub><i>Delivered the best project showcasing exceptional teamwork, efficiency, and technical excellence</i></sub>
+</td>
+</tr>
+</table>
+
+### 🎯 Achievement Highlights
+
+```yaml
+Career Milestones:
+  2023: 
+    - Best Individual Performer (Flashaid)
+    - Innovation Award (EasyAspataal)
+  2019:
+    - Best Internship Project (ExpertsHub)
+  
+Impact:
+  - Recognized for consistent excellence across multiple organizations
+  - Demonstrated leadership in innovation and project delivery
+  - Strong track record of collaborative team success
+```
 
 </div>
 
@@ -130,11 +207,20 @@ Specializations:
 ---
 
 <details>
-<summary><h2>🏆 Achievements & Trophies</h2></summary>
+<summary><h2>🎖️ GitHub Trophies</h2></summary>
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=pratikfulkar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=pratikfulkar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+
+### 🌟 Profile Highlights
+
+<p>
+<img src="https://img.shields.io/badge/Open_Source-Contributor-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Code_Quality-A+-4ECDC4?style=for-the-badge&logo=codacy&logoColor=white" />
+<img src="https://img.shields.io/badge/Team_Player-Collaborative-FFD700?style=for-the-badge&logo=teams&logoColor=white" />
+<img src="https://img.shields.io/badge/Innovation-Driven-FF6B6B?style=for-the-badge&logo=lightbulb&logoColor=white" />
+</p>
 
 </div>
 
