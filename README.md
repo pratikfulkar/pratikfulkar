@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Solutions+%F0%9F%92%A1;AI+%7C+Cloud+%7C+Full+Stack+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Solutions+%F0%9F%92%A1;AI+%7C+Cloud+%7C+Full+Stack+%F0%9F%8C%9F" alt="Typing SVG" /></a><br/><br/><br/><br/>
 
 <br/><br/>
 
